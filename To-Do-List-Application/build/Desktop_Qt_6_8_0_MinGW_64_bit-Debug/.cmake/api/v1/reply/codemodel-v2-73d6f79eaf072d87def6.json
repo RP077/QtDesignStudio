@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-291b54524cf57a7be53b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "To-Do-List-Application",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "To-Do-List-Application::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-To-Do-List-Application-Debug-536edc678aed1d20c9b5.json",
+					"name" : "To-Do-List-Application",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "To-Do-List-Application_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-To-Do-List-Application_autogen-Debug-7c1e680333fb7648dd9d.json",
+					"name" : "To-Do-List-Application_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "To-Do-List-Application_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-To-Do-List-Application_autogen_timestamp_deps-Debug-1794724111bf11cd2a17.json",
+					"name" : "To-Do-List-Application_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/rapha/Documents/To-Do-List-Application/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/rapha/Documents/To-Do-List-Application"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

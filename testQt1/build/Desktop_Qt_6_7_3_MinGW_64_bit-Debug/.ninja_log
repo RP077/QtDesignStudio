@@ -1,0 +1,10 @@
+# ninja log v6
+4	63	7545880562548252	C:/Users/rapha/Documents/testqt/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	5e8eaaeec1866c9e
+65	472	7545880566701060	testqt_autogen/timestamp	ab8d0a9f971982f6
+65	472	7545880566701060	testqt_autogen/mocs_compilation.cpp	ab8d0a9f971982f6
+65	472	7545880566701060	C:/Users/rapha/Documents/testqt/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/testqt_autogen/timestamp	ab8d0a9f971982f6
+65	472	7545880566701060	C:/Users/rapha/Documents/testqt/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/testqt_autogen/mocs_compilation.cpp	ab8d0a9f971982f6
+475	1607	7545880567267509	CMakeFiles/testqt.dir/testqt_autogen/mocs_compilation.cpp.obj	e45f6a884912269f
+480	1666	7545880567312585	CMakeFiles/testqt.dir/mainwindow.cpp.obj	f72c094d0320058
+478	1669	7545880567287544	CMakeFiles/testqt.dir/main.cpp.obj	77a9c25e741ecbdc
+1669	1822	7545880579203516	testqt.exe	620c71edc852a64f
